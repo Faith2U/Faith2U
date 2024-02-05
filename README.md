@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Faith2U
 - 👀 I’m interested in Machine Learning/AI
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on any beginner tasks on projects.
+- 🌱 I’m currently into Machine Learning
+- 💞️ I’m looking to collaborate on any intermediate tasks on projects.
 - 📫 How to reach me: Email charae.faith@gmail.com
 
 <!---
